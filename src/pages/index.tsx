@@ -13,8 +13,7 @@ const IndexPage = () => {
         </span>
       </h1>
       <p style={paragraphStyles}>
-        Edit <code style={codeStyles}>src/pages/index.tsx</code> to see this page
-        update in real-time.{" "}
+        Estamos trabajando en ello... stay tuned
         <span role="img" aria-label="Sunglasses smiley emoji">
           😎
         </span>

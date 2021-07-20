@@ -5,9 +5,9 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Home Page</title>
       <h1 style={headingStyles}>
-        Congratulations
+        This is
         <br />
-        <span style={headingAccentStyles}>— you just made a Great Gatsby site! </span>
+        <span style={headingAccentStyles}>— Manu Ramos website </span>
         <span role="img" aria-label="Party popper emojis">
           🎉🎉🎉
         </span>

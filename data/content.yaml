@@ -1,6 +1,6 @@
 BasicInfo:
   FirstName: Manu
-  LastName: ramos
+  LastName: Ramos
   # Photo: img/avatar.jpg
   Contacts:
     # - Icon: fas fa-phone
@@ -8,9 +8,9 @@ BasicInfo:
     - Icon: fas fa-envelope
       Info: mail@manuramos.dev
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://manuramos.dev" target="_blank">ines-almeida.com</a>
+      Info: <a class="contact__link" href="https://manuramos.dev" target="_blank">manuramos.dev</a>
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: Spain
 
 Profile: Flutter Lead at Indexa Capital
 

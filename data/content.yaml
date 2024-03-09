@@ -1,0 +1,115 @@
+BasicInfo:
+  FirstName: Manu
+  LastName: ramos
+  # Photo: img/avatar.jpg
+  Contacts:
+    # - Icon: fas fa-phone
+    #   Info: +34 620 456 789
+    - Icon: fas fa-envelope
+      Info: mail@manuramos.dev
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://manuramos.dev" target="_blank">ines-almeida.com</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Portugal
+
+Profile: Flutter Lead at Indexa Capital
+
+Experience:
+  - Employer: Indexa Capital
+    Place: Madrid, Spain
+    Positions:
+      - Title: Mobile Lead
+        Date: Jun 2021 - Present
+        Details:
+          - Mobile leading
+        Badges: ['Flutter', 'Dart', 'Mobile', 'Android', 'iOS']
+      - Title: Full Stack Developer
+        Date: Oct 2021 - Present
+        Details:
+          - Full Stack developing
+        Badges: ['PHP', 'Symfony', 'OOP', 'DDD', 'JavaScript', 'HTML', 'CSS', 'Agile']
+  - Employer: Epic Labs
+    Place: Madrid, Spain
+    Positions:
+      - Title: Software Engineer
+        Date: Sep 2017 - Apr 2020
+        Details:
+          - Software Engineering
+        Badges: ['JavaScript', 'Java', 'Angular', 'AngularJS', 'Springboot']
+
+Education:
+  - Course: BEng in Telecommunication Technologies and Services Engineering
+    Place: Technical University of Madrid 
+    Date: Jun 2018
+    # Details: Specialised in data analysis
+
+# References:
+#   - Name: Person One
+#     Relation: Co-worker at Super Cool Company
+#     Contacts:
+#     - Icon: fas fa-phone
+#       Info: +44 123 456 790
+#     - Icon: fas fa-envelope
+#       Info: contact@person-one.com
+#     - Icon: fas fa-map-marker-alt
+#       Info: Melbourne, Australia
+#   - Name: Person Two
+#     Relation: Boss at Super Cool Company
+#     Contacts:
+#     - Icon: fas fa-phone
+#       Info: +44 123 456 791
+#     - Icon: fas fa-envelope
+#       Info: contact@person-two.com
+#     - Icon: fas fa-map-marker-alt
+#       Info: Sydney, Australia
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - Dart
+      - HTML
+      - JavaScript
+      - Java
+      - Kotlin
+      - TypeScript
+      - CSS
+      - SQL
+      - Bash
+      - MATLAB
+  - Family: Frameworks
+    Items:
+      - Flutter
+      - Symfony
+      - Angular
+      - AngularJS
+      - Springboot
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Google Play Console
+      - App Store Connect
+  - Family: Misc
+    Items:
+      - LaTeX
+
+Languages:
+  - Name: Spanish
+    Level: Native
+  - Name: English
+    Level: C1
+
+# Diplomas:
+#   - ISTQB Tester Certification (2019)
+#   - English Cambridge CAE (2009)
+
+Interests:
+  - Basketball
+  - Fitness
+  - Health
+  - Cooking
+  - Finance
+  - Traveling
+  - UX/UI Design
+  - Languages
